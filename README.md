@@ -1,3 +1,5 @@
+Aluno: LUIS GUSTAVO 
+
 Constante de Kaprekar em Python
 Descrição
 
